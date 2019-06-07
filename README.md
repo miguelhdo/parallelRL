@@ -1,2 +1,2 @@
-# parallel RL
+# Parallel RL with minimal communication
 
